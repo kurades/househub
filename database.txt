@@ -1,0 +1,3 @@
+mongodb+srv://user:user123@student.adrwg.mongodb.net/test
+
+use mongodb compass to access this database

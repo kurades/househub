@@ -1,0 +1,245 @@
+/* change css in profile container :P */
+
+
+/* .admin-page-container{
+    background-color: #f8f9fa;
+}
+.navbar{
+    width:100%;
+    background-color: #0d6efd;
+    color: white;
+    padding: 0 20px;
+    padding-top: 5px;
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+}
+.navbar-logo img{
+    height: 100%;
+}
+#admin-nav-logo{
+    width: auto;
+}
+.navbar .left,.navbar .right{
+    display: flex;
+    align-items: flex-end;
+}
+.navbar .right{
+    justify-content: flex-end;
+}
+#admin-nav-logo{
+    height: 50px;
+    padding: 10px;
+}
+.searchbar-container{
+    padding-left: 20px;
+}
+.searchbar{
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    background-color: #71a9fd;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 10px;
+}
+.searchbar:hover{
+    background-color: white;
+    color: #9b9b9b;
+}
+.searchbar input{
+    background-color: transparent;
+    border: none;
+    color: inherit;
+    outline: none;
+    transition: .2s;
+}
+
+.searchbar input::placeholder{
+    color: inherit;
+}
+.sidebar-icon svg{
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 20px;
+    cursor: pointer;
+    align-self: flex-end;
+}
+.sidebar-icon svg:hover{
+    background-color: #71a9fd;
+}
+.sidebar{
+    display: block;
+    background-color: white;
+    height: calc(100vh - 55px);
+    font-size: 1.2rem;
+    position: fixed;
+    position: relative;
+    top: 0;
+    left: -250px;
+    transition: 500ms;
+    width: 250px;
+    box-sizing: border-box;
+    border-radius: 0px 10px 10px 0px;
+    padding: 20px;
+    z-index: 5;
+    border: 2px solid #e6e6e6;
+}
+.sidebar.active{
+    
+    left: 0;
+    transition: 200ms;
+}
+.sidebar-items{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+.sidebar-toggle{
+    font-size: 2.5rem;
+    cursor: pointer;
+}
+.sidebar-item{
+    padding: 1rem 0;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.sidebar-item a{
+    padding: 1rem 1rem;
+}
+.sidebar-item:hover,.sidebar-item-active {
+    background-color: #3787ff;
+    
+}
+.sidebar-item:hover a,.sidebar-item-active a{
+    color: white;
+}
+.admin-page{
+    margin-left: 0;
+    margin-top: 50px;
+    transition: margin-left .2s ease-in-out;
+    padding: 0;
+    position: relative;
+    z-index: 1;
+}
+.admin-page.on{
+    margin-left:5rem;
+}
+@keyframes margin-left {
+    
+}
+.admin-mainpage{
+    display: flex;
+    width: 100vw;
+}
+.admin-table-container{
+    width: 900px;
+    margin-top: 50px;
+   
+}
+.table-user-items{
+    height: 400px;
+    overflow-y: scroll;
+}
+.admin-table-header{
+    border-bottom:1px solid #d4d4d4 ;
+    padding-bottom: 10px;
+}
+.user-item{
+    height: 80px;
+    align-content: center;
+}
+.user-item-image{
+    width: 50px;
+    height: 50px;
+}
+.user-item-image img{
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.user-item-delete{
+    border: none;
+    background-color: #ff4040;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.user-item span{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.admin-table-header>*{
+    padding: 0;
+}
+.blog-item-image{
+    width: 70px;
+    height: 50px;
+}
+.user-item>*{
+    line-height: 50px;
+}
+
+@media screen and (max-width:1200px) {
+    .admin-table-container{
+        width: 850px;
+    }
+    .user-item-date{
+        display: none;
+    }
+}
+@media screen and (max-width:1100px) {
+    .admin-page.on{
+        margin-left:0;
+    }
+    .admin-page{
+        padding: 0 20px;
+    }
+    .admin-table-container{
+        margin:auto;
+        margin-top: 50px;
+    }
+}
+@media screen and (max-width:768px) {
+    .admin-table-container{
+        margin:auto;
+        margin-top: 50px;
+    }
+    .user-item-address{
+        display: none;
+    }
+    .admin-table-container{
+        width: 500px;
+    }
+}
+@media screen and (max-width:576px) {
+    .admin-table-container{
+        margin:auto;
+        margin-top: 50px;
+    }
+    .user-item-address{
+        display: none;
+    }
+    .admin-table-container{
+        width: 420px;
+    }
+    .user-item-phone{
+        display: none;
+    }
+    .navbar .right{
+        display: none;
+    }
+}
+@media screen and (min-width:1320px) {
+    .admin-table-container{
+        width: 950px;
+    }
+} */

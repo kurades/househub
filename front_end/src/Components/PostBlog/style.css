@@ -1,0 +1,7 @@
+.post-input{
+    width: 100%;
+}
+
+button:disabled {
+    opacity: 0.5;
+}
